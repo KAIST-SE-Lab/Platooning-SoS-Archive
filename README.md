@@ -12,3 +12,5 @@ We conducted this process by selecting 4 students who did not have sufficient ba
 We crossly distributed all logs to at least 2 students and also carried out the final proof-checking for the platooning communication logs.
 Finally, we generated 1,000 failed logs and their oracle for the identified six bugs.
 We expect that this experimental data could be utilized in various further studies focusing on testing and analyzing large and complex systems, like Cyber-Physical Systems or SoSs.
+
+Based on the experimental data for 1,000 failed logs and oracle, we're continuously appending the data.
