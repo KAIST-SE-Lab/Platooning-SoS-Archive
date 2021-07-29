@@ -11,6 +11,9 @@ For this time-consuming oracle generation, total of 5 students are participated 
 We conducted this process by selecting 4 students who did not have sufficient background knowledge on the platooning protocol in composing the personnel of this small project.
 We crossly distributed all logs to at least 2 students and also carried out the final proof-checking for the platooning communication logs.
 Finally, we generated 1,000 failed logs and their oracle for the identified six bugs.
-We expect that this experimental data could be utilized in various further studies focusing on testing and analyzing large and complex systems, like Cyber-Physical Systems or SoSs.
+We expect that this experimental data could be utilized in various further studies focusing on testing and analyzing large and complex systems, like Cyber-Physical Systems or SoS.
+
+You can download the experimental data in the Release page or the following Googld Drive link:
+https://drive.google.com/file/d/1aCPCvWmp1mUMhm_JIRJdpWwFLRAKIuGJ/view?usp=sharing
 
 Based on the experimental data for 1,000 failed logs and oracle, we're continuously appending the data.
